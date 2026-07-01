@@ -1,0 +1,22 @@
+{
+  "name": "mechanism-review",
+  "version": "0.1.0",
+  "description": "Review chemical and industrial optimization results with mechanism checks.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mechanism Review",
+    "shortDescription": "Mechanism checks for soft-sensor, simulation, RTO, MPC/APC, and optimization reports.",
+    "longDescription": "Mechanism Review helps Codex digest loose chemical or industrial process analysis notes, align review focus with the user, check mechanism consistency, grade evidence, and produce report-ready Chinese technical explanations.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [
+      "Chemical process mechanism review",
+      "Soft-sensor and what-if simulation sanity checks",
+      "RTO, MPC/APC, and optimization result explanation"
+    ],
+    "defaultPrompt": "Use mechanism-review to review this process optimization report."
+  }
+}

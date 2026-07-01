@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mechanism Review"
+  short_description: "Mechanism review for process optimization"
+  default_prompt: "Use $mechanism-review to digest this loose analysis Markdown, review mechanism consistency, and produce technical-report-ready wording."
