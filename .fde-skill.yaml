@@ -1,0 +1,5 @@
+schema_version: fde-skill/v1
+name: mechanism-review
+source_subdir: skills/mechanism-review
+python_version: "3.11"
+foundry_repository: fde-agent-foundry/fde-foundry
